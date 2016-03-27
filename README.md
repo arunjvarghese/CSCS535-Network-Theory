@@ -1,3 +1,3 @@
-### CSCS5353---Network-Theory
+### CSCS5353-Network-Theory
 
 Coursework for network theory course
